@@ -1,0 +1,19 @@
+{
+  "id": "nimble-5e-mana-tracker",
+  "title": "Nimble 5E Mana Tracker",
+  "version": "1.0.0",
+  "esmodules": [
+    "scripts/mana-tracker.js"
+  ],
+  "styles": [
+    "styles/mana-tracker.css"
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "description": "A system-agnostic manual mana tracker for 5e-style FoundryVTT games."
+}
